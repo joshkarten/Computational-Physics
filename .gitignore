@@ -1,0 +1,7 @@
+.venv/Lib/site-packages/decorator.py
+.venv/bin/*
+.venv/include/*
+.venv/Lib/
+.venv/Lib/site-packages/numpy-2.0.2-cp312-cp312-win_amd64.whl
+.venv/pyvenv.cfg
+.venv/*
